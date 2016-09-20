@@ -1,3 +1,3 @@
 # kube-cloud-config
 
-[![wercker status](https://app.wercker.com/status/7a22f36a11b6dd329dd9b9be0c90adad/s/master "wercker status")](https://app.wercker.com/project/byKey/7a22f36a11b6dd329dd9b9be0c90adad)
+[![wercker status](https://app.wercker.com/status/e547663594f1d46be4113a928f7327f0/s/master "wercker status")](https://app.wercker.com/project/byKey/e547663594f1d46be4113a928f7327f0)
