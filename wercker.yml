@@ -1,6 +1,5 @@
 box: ruby:alpine
 # Defining the dev pipeline
-
 build:
   steps:
     - install-packages:
