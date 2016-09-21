@@ -1,4 +1,4 @@
-box: ruby:alpine
+box: ruby:slim
 # Defining the dev pipeline
 build:
   steps:
