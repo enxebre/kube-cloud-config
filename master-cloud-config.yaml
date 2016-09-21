@@ -70,5 +70,4 @@ write_files:
     permissions: 0644
     content: "${etcd_key}"
 manage_etc_hosts: localhost
-role
 
